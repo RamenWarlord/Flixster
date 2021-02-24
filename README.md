@@ -24,6 +24,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="flixster2.gif" width=250><br>
 
 ### Notes
+To run you need to add/include a file containing a string value containing a youtube api key. 
+This string value has to have the name "youtube_api_key" for youtube to run on the app.
 
 Describe any challenges encountered while building the app.
 
